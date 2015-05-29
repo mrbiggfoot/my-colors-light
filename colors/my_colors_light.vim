@@ -26,6 +26,7 @@ hi LineNr			ctermfg=Gray
 hi ColorColumn		ctermfg=White ctermbg=LightGray
 hi Pmenu			ctermbg=LightGray
 hi PmenuSel			ctermbg=LightGreen
+hi SymbolLineMatch	ctermbg=LightCyan
 
 " Unite colors
 hi uniteStatusSourceNames		ctermbg=Black ctermfg=LightCyan cterm=NONE
