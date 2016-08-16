@@ -48,3 +48,9 @@ hi uniteSource__id_LineNr		ctermfg=Gray
 " Indent guide colors
 hi IndentGuidesOdd	ctermbg=255
 hi IndentGuidesEven	ctermbg=253
+
+" Neomake colors
+hi NeomakeErrorSign ctermbg=DarkRed ctermfg=White
+hi NeomakeWarningSign ctermbg=Red ctermfg=Black
+hi NeomakeMessageSign ctermbg=Yellow ctermfg=Black
+hi NeomakeInfoSign ctermbg=Green ctermfg=Black
