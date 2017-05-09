@@ -54,3 +54,8 @@ hi NeomakeErrorSign ctermbg=DarkRed ctermfg=White
 hi NeomakeWarningSign ctermbg=Red ctermfg=Black
 hi NeomakeMessageSign ctermbg=Yellow ctermfg=Black
 hi NeomakeInfoSign ctermbg=Green ctermfg=Black
+
+hi NeomakeError ctermbg=White ctermfg=DarkRed cterm=bold,underline
+hi NeomakeWarning ctermbg=White ctermfg=Red cterm=bold,underline
+hi NeomakeMessage ctermbg=White ctermfg=DarkGreen cterm=bold,underline
+hi NeomakeInfo ctermbg=White ctermfg=Blue cterm=bold,underline
