@@ -9,7 +9,7 @@ endif
 let g:colors_name = "my_colors_light"
 
 " Generic syntax colors
-hi Normal ctermfg=Black ctermbg=White cterm=NONE
+hi Normal ctermfg=Black ctermbg=15 cterm=NONE
 hi Comment			ctermfg=DarkGreen
 hi Function			ctermfg=16 cterm=bold
 hi Statement		ctermfg=DarkMagenta
