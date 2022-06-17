@@ -61,5 +61,6 @@ hi NeomakeWarning ctermbg=White ctermfg=Red cterm=bold,underline
 hi NeomakeMessage ctermbg=White ctermfg=DarkGreen cterm=bold,underline
 hi NeomakeInfo ctermbg=White ctermfg=Blue cterm=bold,underline
 
-" Inactive status line
-highlight StatusLineNC ctermbg=LightGray
+" Status line
+highlight StatusLine ctermfg=White ctermbg=DarkGray cterm=bold
+highlight StatusLineNC ctermfg=252 ctermbg=Black cterm=NONE
